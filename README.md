@@ -26,7 +26,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![bitfit2](https://github.com/vishva-k/BitFit2/assets/108424734/11f4da5f-2223-4cea-bbb0-dbdab83447b9)
+
+
+https://github.com/vishva-k/BitFit2/assets/108424734/974b920b-5b11-46c4-a570-3c6cd4454003
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
